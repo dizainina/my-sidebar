@@ -7,3 +7,4 @@ npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
 Запуск npm start
 
 ![alt text](1.png)
+![alt text](2.png)
