@@ -8,8 +8,8 @@ import {
   ColorLensRounded,
   DashboardRounded,
   SettingsRemoteRounded,
-  TocRounded,
-} from "@material-ui/icons";
+  TocRounded
+} from "@mui/icons-material";
 import Item from "./component/Item";
 import { useState } from "react";
 function App() {
